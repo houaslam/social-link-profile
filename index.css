@@ -22,14 +22,15 @@ html body{
 }
 
 .wrap{
-	height: 100vh;
-	width: 100vw;
+	/* height: 100vh;
+	width: 100vw; */
 	display: flex;
 	align-items: center;
 	justify-content: center;
 }
 
 .profile{
+	margin-top: 100px;
 	background-color: var(--Dark-Grey);
 	display: flex;
 	flex-direction: column;
